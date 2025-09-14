@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <div>
+    <a href="https://github.com/diogo-alvarenga"></a>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=diogo-alvarenga&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-alvarenga&layout=compact&langs_count=16&theme=dracula">
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  </div>
+</div>
 
-<!--
-**diogo-alvarenga/diogo-alvarenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
