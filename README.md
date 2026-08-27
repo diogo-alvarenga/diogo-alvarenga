@@ -1,6 +1,5 @@
 
 <div>
-  <div style="background-color: black; color: white; padding: 20px;">
   <h2 style="text-align: left;" >Stats</h2>
   <div align="center">
     <a href="https://github.com/diogo-alvarenga"></a>
