@@ -3,8 +3,8 @@
   <h2 style="text-align: left;" >Stats</h2>
   <div align="center">
     <a href="https://github.com/diogo-alvarenga"></a>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogo-alvarenga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-alvarenga&layout=compact&langs_count=8&theme=midnight-purple">
+    <img alt="GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=diogo-alvarenga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+    <img alt="GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-alvarenga&layout=compact&langs_count=8&theme=midnight-purple">
     <br>
     <br>
   </div>
