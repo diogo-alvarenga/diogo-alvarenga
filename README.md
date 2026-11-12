@@ -67,6 +67,17 @@
       height="60"
       alt="Postman"
     />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+      height="60"
+      alt="Git"
+      />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+      height="60"
+      alt="Github"
+      />
+          
   </div>
 
   <br>
@@ -84,7 +95,7 @@
       <img
         alt="GitHub contribution grid snake animation"
         src="https://raw.githubusercontent.com/diogo-alvarenga/diogo-alvarenga/output/github-contribution-grid-snake.svg"
-      />
+      />          
     </picture>
   </div>
 
