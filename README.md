@@ -40,11 +40,17 @@
       height="60"
       alt="PostgreSQL"
     />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+      height="60"
+      alt="Python"
+      />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
       height="60"
       alt="Lua"
     />
+          
   </div>
 
   <br>
